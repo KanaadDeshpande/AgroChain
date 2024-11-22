@@ -23,4 +23,3 @@ You need to setup the arduino and raspberry pi along with their respective senso
 
 ## License
 [MIT License](./license.md)
-## Citation
