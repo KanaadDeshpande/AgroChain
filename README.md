@@ -22,5 +22,5 @@ You need to setup the arduino and raspberry pi along with their respective senso
 3. Run the `IrohaSetup.py` followed by `IrohaMain.py`
 
 ## License
-
+[MIT License](./license.md)
 ## Citation
